@@ -11,5 +11,4 @@ jobs:
     steps:
       - name: Checkout code
         run: | 
-        echo "Hola Mundo."
-        
+          echo "Hola Mundo."
